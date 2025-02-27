@@ -2,10 +2,12 @@
 
 ## CyTA 5.0 - ChatGPT - W3C
 
-Este repositorio documenta la integración de **Ciencia Abierta**, **Inteligencia Artificial** y **Web Semántica** en el ecosistema de CyTA 5.0.
+Este repositorio documenta la integración de **Ciencia Abierta**, **Inteligencia Artificial**, **Web Semántica**, y **Ciencia Ciudadana** en el **ecosistema** de CyTA 5.0.
 
 ### 📌 **Visión del Proyecto**
-El objetivo es desarrollar un modelo de **colaboración IA-Humano** para establecer una **Arquitectura de Razonamiento Compartido**, fundamentada en:
+El objetivo es desarrollar un modelo de **colaboración IA-Humano** para establecer una **Arquitectura de Razonamiento Compartido**, aplicable a en los procesos de **enseñanza activa** y **aprendizaje basado en proyectos**
+
+fundamentada en:
 
 - **Ampliación de facultades** → No solo automatización, sino co-evolución cognitiva.
 - **Modelos formales** → Integración de razonamiento lógico, semántica y epistemología.
@@ -16,7 +18,7 @@ El objetivo es desarrollar un modelo de **colaboración IA-Humano** para estable
 - **CyTA 5.0** → Plataforma de Ciencia Abierta con curación semántica y estructuración del conocimiento en RDF.
 - **ChatGPT** → Asistencia en generación de contenido, razonamiento y validación de hipótesis.
 - **W3C** → Estándares de la Web Semántica, RDF, SPARQL, OWL y SKOS.
-
+Constituyendose así, una **Cadenas Cooperativas de Valor**.
 ### 🚀 **Componentes Técnicos**
 El proyecto se basa en una infraestructura abierta y interoperable:
 
