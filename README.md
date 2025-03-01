@@ -1,6 +1,7 @@
 # Ciencia Abierta con IA en la Web Semántica
 
 ## CyTA 5.0 - ChatGPT - W3C
+CyTA 5.0→ Industria  5.0 →  y Ciencia 5.0 → enfatiza la colaboración entre IA y humano
 
 ### 📌 **Visión del Proyecto**
 El proyecto busca principalmente documentar la integración de **Ciencia Abierta**, **Inteligencia Artificial**, **Web Semántica**, y **Ciencia Ciudadana** en el **ecosistema** de CyTA 5.0; consecuentemente se presenta como un estudio de caso donde observamos particularidades para poder generalizar.
@@ -15,10 +16,13 @@ fundamentado en:
 - **Curación con rigor ontológico** → Garantiza coherencia lógica y validez científica de los trasfondos: Formales (leyes, terías, reglas), Específico (datos, hipótesis, teoremas), Acumulado (trasfondo E eficaces) .
 - **Construcción de conocimiento** → Desde evidencias como conjunto de datos, hasta inferencias basadas en hipótesis, que puedan tener replicabilidad.
 
-### 🌍 **Estructura del Ecosistema**
-- **CyTA 5.0** → Plataforma de Ciencia Abierta con curación semántica y estructuración del conocimiento en RDF.
-- **ChatGPT** → Asistencia en generación de contenido, razonamiento y validación de hipótesis.
+### 🌍 **Estructura y dinámica del Ecosistema**
+- **CyTA 5.0** → Plataforma de Ciencia Abierta con: curación semántica, revisión de literatura científica, elaboración de hipótesis y estructuración del conocimiento en RDF.
+- **ChatGPT** → Asistencia en revisión de literatura, curación, generación de contenidos, razonamiento y validación de hipótesis.
 - **W3C** → Estándares de la Web Semántica, RDF, SPARQL, OWL y SKOS.
+- **Schema.org** → Estándares de marcaión Json-LD, RDF.
+- **Dinámica** → Establecida por la relación entre los elementos y su mejor derivación en el uso de los tiempos.
+
 Constituyendose así, una **Cadenas Cooperativas de Valor**.
 ### 🚀 **Componentes Técnicos**
 El proyecto se basa en una infraestructura abierta y interoperable:
