@@ -5,14 +5,14 @@
 Este repositorio documenta la integración de **Ciencia Abierta**, **Inteligencia Artificial**, **Web Semántica**, y **Ciencia Ciudadana** en el **ecosistema** de CyTA 5.0.
 
 ### 📌 **Visión del Proyecto**
-El objetivo es desarrollar un modelo de **colaboración IA-Humano** para establecer una **Arquitectura de Razonamiento Compartido**, aplicable a en los procesos de **enseñanza activa** y **aprendizaje basado en proyectos**
+El objetivo es desarrollar un **modelo de colaboración IA-Humano** para establecer una **Arquitectura de Razonamiento Compartido**, aplicable a los procesos de **enseñanza activa** y **aprendizaje basado en proyectos**
 
-fundamentada en:
+fundamentado en:
 
 - **Ampliación de facultades** → No solo automatización, sino co-evolución cognitiva.
-- **Modelos formales** → Integración de razonamiento lógico, semántica y epistemología.
-- **Curación con rigor ontológico** → Garantiza coherencia lógica y validez científica.
-- **Construcción de conocimiento** → Desde hipótesis hasta inferencia, con replicabilidad.
+- **Modelos formales** → Integración epistemológica del razonamiento lógico y la semántica. .
+- **Curación con rigor ontológico** → Garantiza coherencia lógica y validez científica de los trasfondos: Formales (leyes, terías, reglas), Específico (datos, hipótesis, teoremas), Acumulado (trasfondo E eficaces) .
+- **Construcción de conocimiento** → Desde evidencias como conjunto de datos, hasta inferencias basadas en hipótesis, que puedan tener replicabilidad.
 
 ### 🌍 **Estructura del Ecosistema**
 - **CyTA 5.0** → Plataforma de Ciencia Abierta con curación semántica y estructuración del conocimiento en RDF.
